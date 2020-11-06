@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Space+Grotesk:wght@700&display=swap');
+
+/*
+font-family: 'Kalam', cursive;
+font-family: 'Space Grotesk', sans-serif;
+*/
+body{
+    padding:60px;
+}
+h1{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 40px;
+}
+button{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 30px;
+    padding: 6px;
+}
+
+h2, input{
+    font-family: 'Kalam', cursive;
+    font-size: 35px;
+    text-align: center;
+}
