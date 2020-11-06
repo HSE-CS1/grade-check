@@ -5,20 +5,20 @@ font-family: 'Kalam', cursive;
 font-family: 'Space Grotesk', sans-serif;
 */
 body{
-    padding:60px;
+    padding:10px;
 }
 h1{
     font-family: 'Space Grotesk', sans-serif;
-    font-size: 40px;
+    font-size: 20px;
 }
 button{
     font-family: 'Space Grotesk', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     padding: 6px;
 }
 
 h2, input{
     font-family: 'Kalam', cursive;
-    font-size: 35px;
+    font-size: 18px;
     text-align: center;
 }
