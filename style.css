@@ -19,6 +19,6 @@ button{
 
 h2, input{
     font-family: 'Kalam', cursive;
-    font-size: 18px;
-    text-align: center;
+    font-size: 22px;
+    padding:10px;
 }
